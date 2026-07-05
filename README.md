@@ -6,19 +6,6 @@ answers five questions a retail analyst is regularly asked, using nothing but
 SQL — window functions, CTEs, and index-aware query design — plus a thin
 Python layer for data generation and charting.
 
-**Every number in this README was produced by actually running the queries
-in this repo against the generated database** — nothing here is illustrative
-or hand-typed. Re-run `scripts/run_analysis.py` yourself to reproduce all of it.
-
-## Why this project
-
-Most "SQL portfolio" repos run a handful of `SELECT` statements against a
-toy table. This one is built the way an analyst actually works: a normalized
-schema, a data-generation step with realistic (and intentionally
-non-uniform) behavior baked in, indexing decisions that are benchmarked
-rather than assumed, and analyses that end in a business decision, not just
-a result set.
-
 ## Schema
 
 ```mermaid
