@@ -1,0 +1,151 @@
+product_id,product_name,category,unit_price,unit_cost
+1,Books Material 1,Books,12.56,6.31
+2,Toys Authority 2,Toys,29.27,16.25
+3,Toys Defense 3,Toys,59.6,33.68
+4,Grocery Difficult 4,Grocery,19.32,10.84
+5,Toys Plant 5,Toys,35.72,20.21
+6,Books Speak 6,Books,31.16,16.56
+7,Toys Rich 7,Toys,80.91,39.1
+8,Beauty Price 8,Beauty,75.61,38.67
+9,Beauty Lay 9,Beauty,42.25,25.02
+10,Books Role 10,Books,8.85,5.97
+11,Toys Control 11,Toys,38.65,21.01
+12,Sports Wait 12,Sports & Outdoors,245.2,123.43
+13,Home Main 13,Home & Kitchen,184.93,104.96
+14,Grocery Late 14,Grocery,43.46,22.82
+15,Toys Office 15,Toys,8.82,4.08
+16,Beauty Just 16,Beauty,50.49,26.98
+17,Home Begin 17,Home & Kitchen,25.7,15.8
+18,Toys Cultural 18,Toys,71.75,35.52
+19,Grocery Minute 19,Grocery,55.48,25.3
+20,Beauty Edge 20,Beauty,87.41,47.77
+21,Home Fill 21,Home & Kitchen,169.06,87.63
+22,Home Ten 22,Home & Kitchen,145.59,88.85
+23,Beauty Career 23,Beauty,85.49,41.69
+24,Books Business 24,Books,32.27,18.3
+25,Home Special 25,Home & Kitchen,33.5,21.46
+26,Grocery But 26,Grocery,29.55,15.63
+27,Electronics City 27,Electronics,246.61,152.66
+28,Apparel Agree 28,Apparel,76.83,36.22
+29,Electronics Spring 29,Electronics,431.7,293.57
+30,Electronics Company 30,Electronics,540.64,288.09
+31,Apparel President 31,Apparel,61.23,32.35
+32,Books Before 32,Books,12.41,6.21
+33,Home Use 33,Home & Kitchen,158.56,109.33
+34,Sports Safe 34,Sports & Outdoors,209.25,138.14
+35,Books Second 35,Books,31.9,19.33
+36,Books Democrat 36,Books,19.2,11.44
+37,Grocery Morning 37,Grocery,56.32,32.03
+38,Home Because 38,Home & Kitchen,274.98,143.66
+39,Apparel Door 39,Apparel,40.89,26.6
+40,Home Among 40,Home & Kitchen,26.23,17.71
+41,Home Best 41,Home & Kitchen,226.27,111.06
+42,Apparel Figure 42,Apparel,126.21,73.59
+43,Toys Person 43,Toys,116.4,56.99
+44,Grocery Town 44,Grocery,53.72,33.57
+45,Sports Focus 45,Sports & Outdoors,154.13,95.94
+46,Beauty Opportunity 46,Beauty,51.46,35.71
+47,Home Already 47,Home & Kitchen,22.93,15.53
+48,Apparel Commercial 48,Apparel,46.04,29.42
+49,Home Prepare 49,Home & Kitchen,145.99,97.82
+50,Grocery Never 50,Grocery,38.82,21.15
+51,Home Play 51,Home & Kitchen,173.82,111.55
+52,Books Apply 52,Books,34.96,23.87
+53,Home Only 53,Home & Kitchen,94.73,53.22
+54,Electronics Offer 54,Electronics,525.86,364.2
+55,Books Quite 55,Books,9.44,6.34
+56,Apparel News 56,Apparel,69.09,46.4
+57,Apparel Seek 57,Apparel,115.52,57.1
+58,Sports Available 58,Sports & Outdoors,176.42,109.26
+59,Home Particular 59,Home & Kitchen,297.33,142.05
+60,Beauty Hundred 60,Beauty,30.79,21.26
+61,Books Research 61,Books,25.43,13.3
+62,Apparel Itself 62,Apparel,57.48,30.96
+63,Grocery Five 63,Grocery,28.11,12.76
+64,Toys Table 64,Toys,103.98,72.57
+65,Books Herself 65,Books,32.68,21.66
+66,Beauty Coach 66,Beauty,80.36,46.48
+67,Electronics Cup 67,Electronics,215.02,123.08
+68,Home But 68,Home & Kitchen,263.91,122.19
+69,Beauty Thank 69,Beauty,12.9,8.06
+70,Sports Page 70,Sports & Outdoors,223.26,125.52
+71,Toys Box 71,Toys,44.86,23.97
+72,Sports Require 72,Sports & Outdoors,85.5,54.51
+73,Grocery Parent 73,Grocery,32.19,19.79
+74,Books Trouble 74,Books,42.69,25.09
+75,Home Performance 75,Home & Kitchen,28.62,19.12
+76,Electronics Also 76,Electronics,342.92,217.29
+77,Electronics Must 77,Electronics,776.65,408.27
+78,Beauty Class 78,Beauty,40.48,27.37
+79,Toys Available 79,Toys,30.31,16.58
+80,Sports Religious 80,Sports & Outdoors,111.95,69.88
+81,Books Director 81,Books,21.04,11.4
+82,Toys Dark 82,Toys,110.53,60.99
+83,Books Full 83,Books,35.72,17.26
+84,Books Including 84,Books,25.7,16.19
+85,Beauty Or 85,Beauty,89.05,50.96
+86,Sports Short 86,Sports & Outdoors,121.67,57.29
+87,Grocery Technology 87,Grocery,6.32,4.3
+88,Apparel Safe 88,Apparel,48.19,31.39
+89,Books Design 89,Books,23.01,15.31
+90,Apparel Between 90,Apparel,33.65,15.34
+91,Home Letter 91,Home & Kitchen,285.06,185.73
+92,Apparel Civil 92,Apparel,117.83,60.18
+93,Home East 93,Home & Kitchen,91.46,49.69
+94,Home Soon 94,Home & Kitchen,183.38,108.74
+95,Beauty Lawyer 95,Beauty,67.16,43.3
+96,Apparel Upon 96,Apparel,141.9,64.2
+97,Electronics Travel 97,Electronics,798.21,506.17
+98,Books Produce 98,Books,26.09,17.42
+99,Apparel Inside 99,Apparel,118.9,58.15
+100,Grocery Middle 100,Grocery,35.04,21.3
+101,Books Arm 101,Books,27.56,17.82
+102,Apparel First 102,Apparel,27.83,16.79
+103,Electronics Wish 103,Electronics,148.48,92.95
+104,Beauty Seek 104,Beauty,51.42,34.94
+105,Apparel Up 105,Apparel,49.1,24.37
+106,Apparel Safe 106,Apparel,14.9,6.72
+107,Beauty Authority 107,Beauty,67.27,33.81
+108,Apparel Which 108,Apparel,16.48,9.01
+109,Beauty Member 109,Beauty,56.81,32.33
+110,Beauty Bed 110,Beauty,52.21,32.74
+111,Grocery Activity 111,Grocery,58.22,35.01
+112,Home Toward 112,Home & Kitchen,153.0,86.8
+113,Electronics Real 113,Electronics,94.7,53.09
+114,Electronics Director 114,Electronics,514.45,241.73
+115,Beauty Rock 115,Beauty,76.97,39.7
+116,Beauty Official 116,Beauty,89.74,56.09
+117,Apparel Week 117,Apparel,71.39,35.48
+118,Books Order 118,Books,18.49,11.82
+119,Beauty Best 119,Beauty,82.35,40.4
+120,Sports Present 120,Sports & Outdoors,55.9,33.56
+121,Sports Building 121,Sports & Outdoors,157.7,79.57
+122,Sports View 122,Sports & Outdoors,107.37,70.45
+123,Beauty Move 123,Beauty,11.37,6.62
+124,Sports Student 124,Sports & Outdoors,93.35,48.58
+125,Home Source 125,Home & Kitchen,90.59,42.23
+126,Apparel Measure 126,Apparel,106.68,61.18
+127,Electronics Fill 127,Electronics,855.96,517.82
+128,Toys Also 128,Toys,38.02,17.87
+129,Grocery Full 129,Grocery,49.25,22.31
+130,Apparel Tax 130,Apparel,19.64,10.4
+131,Books Trial 131,Books,26.99,16.86
+132,Apparel All 132,Apparel,21.74,12.88
+133,Books Brother 133,Books,42.43,23.88
+134,Grocery Edge 134,Grocery,46.68,25.33
+135,Sports Seven 135,Sports & Outdoors,167.91,107.61
+136,Books Describe 136,Books,38.13,22.36
+137,Beauty Station 137,Beauty,61.1,30.98
+138,Home Cold 138,Home & Kitchen,291.15,134.13
+139,Books Agency 139,Books,33.84,18.69
+140,Grocery Source 140,Grocery,55.71,29.59
+141,Toys Very 141,Toys,65.92,37.3
+142,Grocery Energy 142,Grocery,9.67,5.44
+143,Home Expert 143,Home & Kitchen,165.53,105.02
+144,Toys Successful 144,Toys,22.21,12.32
+145,Electronics Everyone 145,Electronics,549.54,367.28
+146,Books Person 146,Books,24.82,13.54
+147,Home Hold 147,Home & Kitchen,192.43,105.81
+148,Electronics Law 148,Electronics,48.64,27.17
+149,Home Ahead 149,Home & Kitchen,70.53,34.4
+150,Home Mind 150,Home & Kitchen,155.03,78.17

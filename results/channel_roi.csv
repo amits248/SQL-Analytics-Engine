@@ -1,0 +1,6 @@
+channel,customers_acquired,total_spend,cac,avg_ltv,ltv_cac_ratio
+organic,1564,7681.95,4.91,4012.35,816.89
+referral,478,3815.75,7.98,5011.01,627.73
+email,773,9151.37,11.84,3850.18,325.22
+social,970,23848.89,24.59,3592.1,146.1
+paid_search,1215,48215.49,39.68,2975.95,74.99
